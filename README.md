@@ -1,4 +1,4 @@
-# Enhanced Underwater Fish Detection: A Comparative Study of YOLOv9 and Faster RCNN
+# Enhanced Underwater Fish Detection using Faster RCNN
 
 ## OVERVIEW :
 
